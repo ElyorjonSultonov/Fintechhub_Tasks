@@ -1,0 +1,28 @@
+@font-face {
+  font-family: "EuropeExtR";
+  src: url("./EuropeExt/europeext.otf");
+}
+@font-face {
+  font-family: "EuropeExtB";
+  src: url("./EuropeExt/europeext_bold.otf");
+}
+@font-face {
+  font-family: "EuropeExt";
+  src: url("./EuropeExt/europeext_bold_italic.otf");
+}
+@font-face {
+  font-family: "EuropeExt";
+  src: url("./EuropeExt/europeextbold.ttf");
+}
+@font-face {
+  font-family: "EuropeExtN";
+  src: url("./EuropeExt/europeextnormal.ttf");
+}
+@font-face {
+  font-family: "SwitzerL";
+  src: url("./Switzer_Complete/Fonts/OTF/Switzer-Light.otf");
+}
+@font-face {
+  font-family: "SwitzerR";
+  src: url("./Switzer_Complete/Fonts/OTF/Switzer-Regular.otf");
+}
